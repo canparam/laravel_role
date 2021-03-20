@@ -1,4 +1,4 @@
 Config database .env
 
-Run
-php artisan serve
+<h1>RUN</h1>
+<b>php artisan serve</b>
